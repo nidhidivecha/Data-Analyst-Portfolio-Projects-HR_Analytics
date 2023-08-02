@@ -21,3 +21,4 @@ retain younger talent.
 
 In this project, we have created an interactive and dynamic dashboards that allows HR professionals and management to explore HR data visually. Dashboards can contain multiple visualizations and filters, enabling users to drill down into specific aspects of HR analytics.
 
+![HR ](https://github.com/nidhidivecha/Data-Analyst-Portfolio/assets/54711762/34ac9b57-3eb5-4606-abf2-fb689c176dfd)

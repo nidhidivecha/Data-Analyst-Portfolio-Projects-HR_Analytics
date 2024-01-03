@@ -1,4 +1,4 @@
-# HR Analytics Dashboard Portfolio-project
+# HR Analytics Portfolio-project
 
 
 🔹 **About the Project**
